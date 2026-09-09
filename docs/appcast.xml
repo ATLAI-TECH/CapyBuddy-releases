@@ -3,6 +3,15 @@
     <channel>
         <title>CapyBuddy</title>
         <item>
+            <title>1.5.2</title>
+            <pubDate>Wed, 09 Sep 2026 20:03:45 +0100</pubDate>
+            <link>https://github.com/ATLAI-TECH/CapyBuddy-releases/releases</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ATLAI-TECH/CapyBuddy-releases/releases/download/v1.5.2/CapyBuddy-1.5.2.dmg" length="11216653" type="application/octet-stream" sparkle:edSignature="Su+tsTtUdR7vsl/gAYFqeHb2CWPd+M336RcOjs4C2dC2tfCs+8OtL2s/HtP6X5em6C0qbsUeTtRvnBTnZ6o3Aw=="/>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Mon, 07 Sep 2026 13:57:29 +0100</pubDate>
             <link>https://github.com/ATLAI-TECH/CapyBuddy-releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ATLAI-TECH/CapyBuddy-releases/releases/download/v1.5.0/CapyBuddy-1.5.0.dmg" length="11141041" type="application/octet-stream" sparkle:edSignature="roMek9K5Ncxl6p4y2zSijIO68EDVjC2hk3w5dD4kTMb1qY01ZoARHz3Cu7YEvG4Fcxd6IUNvGFhsEhlAlhJzAA=="/>
-        </item>
-        <item>
-            <title>1.4.3</title>
-            <pubDate>Fri, 04 Sep 2026 00:07:19 +0100</pubDate>
-            <link>https://github.com/ATLAI-TECH/CapyBuddy-releases/releases</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ATLAI-TECH/CapyBuddy-releases/releases/download/v1.4.3/CapyBuddy-1.4.3.dmg" length="11117841" type="application/octet-stream" sparkle:edSignature="i8IkQpd1R8/2fOwUD2OD0c7KEtCKSU857x1OFqCpyHYBhZB/iuDZzPu/rSEsPO14gok4q6FpQXn5i9eUu/PoAw=="/>
         </item>
     </channel>
 </rss>
